@@ -1,0 +1,3 @@
+C:/Users/rexyr/OneDrive/Escritorio/Parcial2archivohernandez/impar/cmake-build-debug/CMakeFiles/impar.dir
+C:/Users/rexyr/OneDrive/Escritorio/Parcial2archivohernandez/impar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rexyr/OneDrive/Escritorio/Parcial2archivohernandez/impar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
